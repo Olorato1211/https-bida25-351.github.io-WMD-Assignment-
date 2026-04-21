@@ -1,7 +1,19 @@
+head {
+  background-color: #ff8095;
+}
+
 body {
   background-color: purple;
 }
+
 h1{
   color: 8A2BE2
   margin-left: 20px;
 }
+
+h2 {
+  color: #ffb3bf
+  margin-left: 20px;
+}
+
+
