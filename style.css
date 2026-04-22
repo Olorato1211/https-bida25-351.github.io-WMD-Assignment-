@@ -1,5 +1,7 @@
 head {
   background-color: #ff8095;
+  text-align: center;
+  padding: 10px;
 }
 
 body {
@@ -18,5 +20,7 @@ h2 {
 
 footer {
   background-color: #e6e6ff;
+   text-align: center;
+  padding: 8px;
 }
 
